@@ -6,6 +6,8 @@ Collect awesome-magic code.
 
 - [Unlock-netease-cloud-music](https://github.com/awesome-magic/Unlock-netease-cloud-music)
 
+- [fate](https://github.com/awesome-magic/fate)
+
 ## 💭 Explain
 
 If you have any suggestions or questions, please click here [Issue](https://github.com/awesome-magic/list/issues) .
