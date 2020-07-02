@@ -4,11 +4,19 @@ Collect awesome-magic code.
 
 ## 📜 List 
 
-- [Unlock-netease-cloud-music](https://github.com/awesome-magic/Unlock-netease-cloud-music)
-> 解锁网易云音乐客户端变灰歌曲
+- 🎉 Amusement 
+  - [Unlock-netease-cloud-music](https://github.com/awesome-magic/Unlock-netease-cloud-music) <解锁网易云音乐客户端变灰歌曲>
+  - [fate](https://github.com/awesome-magic/fate) <起名助手>
+  - [gouqi](https://github.com/awesome-magic/gouqi) <枸杞 - 伪装成音乐客户端的计时 App>
 
-- [fate](https://github.com/awesome-magic/fate)
-> fate 命运 起名 算命 宝宝起名 起名助手 宝宝取名
+- 🗄 Tools
+  - [docsearch](https://github.com/awesome-magic/docsearch) &lt;The easiest way to add search to your documentation>
+
+- 🗿 Game
+  - [h5pal](https://github.com/awesome-magic/h5pal) <仙剑奇侠传>
+
+- 💠 Science
+  - [VideoAuidt](https://github.com/awesome-magic/VideoAuidt) <一个短视频APP视频内容安全审核的思路调研及实现汇总>
 
 ## 💭 Explain
 
