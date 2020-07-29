@@ -2,6 +2,8 @@
 
 Collect awesome-magic code.
 
+- 📆 : 2020-07-29
+
 ## 📜 List
 
 - 🎉 Amusement
@@ -17,9 +19,15 @@ Collect awesome-magic code.
 - 🗿 Game
   - [h5pal](https://github.com/awesome-magic/h5pal) <kbd>仙剑奇侠传</kbd>
   - [vue-tetris](https://github.com/awesome-magic/vue-tetris) <kbd>俄罗斯方块</kbd>
+  - [angular-tetris](https://github.com/awesome-magic/angular-tetris) <kbd>俄罗斯方块</kbd>
+  - [boxbox](https://github.com/awesome-magic/boxbox) <kbd>推箱子</kbd>
 
 - 💠 Science
   - [VideoAuidt](https://github.com/awesome-magic/VideoAuidt) <kbd>一个短视频APP视频内容安全审核的思路调研及实现汇总</kbd>
+
+- 📦 UI
+  - [element](https://github.com/awesome-magic/element) 
+  - [ant-design](https://github.com/awesome-magic/ant-design)
 
 ## 💭 Explain
 
