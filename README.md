@@ -1,9 +1,9 @@
-# ✨ The list of awesome-magic repository
+# ✨ The list of magic
 
-Collect awesome-magic codes.
+Collect awesome magic codes.
 
-- 📆 : **`2020-10-22`**
-- 📊 : **`16`**
+- 📆 : **`2020-11-26`**
+- 📊 : **`22`**
 
 ## 📜 List
 
@@ -16,12 +16,16 @@ Collect awesome-magic codes.
   - [docsearch](https://github.com/awesome-magic/docsearch) <kbd>The easiest way to add search to your documentation</kbd>
   - [ivideo](https://github.com/awesome-magic/ivideo) <kbd>一个可以观看国内主流视频平台所有视频的客户</kbd>
   - [xiunobbs](https://github.com/awesome-magic/xiunobbs4.0) <kbd>轻论坛产品</kbd>
+  - [react-three-fiber](https://github.com/awesome-magic/react-three-fiber) <kbd>A React renderer for Three.js</kbd>
+  - [roughViz](https://github.com/awesome-magic/roughViz) <kbd>Reusable JavaScript library/kbd>
+  - [ArtQRCode](https://github.com/awesome-magic/ArtQRCode) <kbd>艺术二维码生成工具</kbd>
 
 - 🗿 Game <kbd>4</kbd>
   - [h5pal](https://github.com/awesome-magic/h5pal) <kbd>仙剑奇侠传</kbd>
   - [vue-tetris](https://github.com/awesome-magic/vue-tetris) <kbd>俄罗斯方块</kbd>
   - [angular-tetris](https://github.com/awesome-magic/angular-tetris) <kbd>俄罗斯方块</kbd>
   - [boxbox](https://github.com/awesome-magic/boxbox) <kbd>推箱子</kbd>
+  - [vue-idle-game](https://github.com/awesome-magic/vue-idle-game) <kbd>一个全随机的刷装备小游戏</kbd>
 
 - 💠 Science <kbd>2</kbd>
   - [VideoAuidt](https://github.com/awesome-magic/VideoAuidt) <kbd>一个短视频APP视频内容安全审核的思路调研及实现汇总</kbd>
@@ -29,14 +33,16 @@ Collect awesome-magic codes.
 
 - 📦 UI <kbd>2</kbd>
   - [ant-design](https://github.com/awesome-magic/ant-design)
+  - [ant-design-vue](https://github.com/awesome-magic/ant-design-vue)
   - [element](https://github.com/awesome-magic/element) 
 
 - 📚 Doc <kbd>2</kbd>
-  - [awesome-wechat-weapp](https://github.com/awesome-magic/awesome-wechat-weapp) <kbd>微信小程序开发资源汇总</kbd>
+  - [GitHub-Chinese-Top-Charts](https://github.com/awesome-magic/GitHub-Chinese-Top-Charts) <kbd>GitHub中文排行榜</kbd>
 
 - 💾 Codes <kbd>1</kbd>
   - [canvas-test](https://github.com/awesome-magic/canvas-test) <kbd>canvas 🌰</kbd>
+  - [vue-interactive-paycard](https://github.com/awesome-magic/vue-interactive-paycard) <kbd>A fantastic credit card/kbd>
 
 ## 💭 Explain
 
-If you have any suggestions or questions, please click here [Issue](https://github.com/awesome-magic/list/issues) .
+If you have any suggestions or questions, please click here [Issue](https://github.com/awesome-magic/magic/issues).
