@@ -45,7 +45,7 @@
 
 - 💾 Codes <kbd>3</kbd>
   - [canvas-test](https://github.com/code-cool/canvas-test) <kbd>canvas 🌰</kbd>
-  - [vue-interactive-paycard](https://github.com/code-cool/vue-interactive-paycard) <kbd>A fantastic credit card/kbd>
+  - [vue-interactive-paycard](https://github.com/code-cool/vue-interactive-paycard) <kbd>A fantastic credit card
   - [awesome-vue](https://github.com/code-cool/awesome-vue) <kbd>A curated list of awesome things related to Vue.js</kbd>
 
 ## 💭 Explain
